@@ -1,8 +1,8 @@
-# Shophub — Full-Stack AI E-Commerce Platform
+# Shop Hub — Full-Stack E-Commerce Platform
 
 ![Shop Hub Screenshot](frontend/public/Screenshot%202026-03-02%20005850.png)
 
-Shophub is a production-grade e-commerce platform built with modern technologies. It features seamless Stripe payments, a high-performance Redis-cached catalog, and JWT-based authentication with httpOnly cookies and secure password hashing. There's also a comprehensive admin dashboard with sales analytics and full inventory management.
+Shop Hub is a production-grade e-commerce platform built with modern technologies. It features seamless Stripe payments, a high-performance Redis-cached catalog, and JWT-based authentication with httpOnly cookies and secure password hashing. There's also a comprehensive admin dashboard with sales analytics and full inventory management.
 
 ---
 
